@@ -6,13 +6,17 @@
   import Varanasi from "../assets/images/Varanasi.jpg";
 </script>
 
-<main>
+<nav>
   <MainLayout />
+</nav>
+
+<main class="m-[1rem]">
   <div class="h-[3rem]"></div>
-  <div class="grid grid-cols-4 gap-x-[2.75rem]">
-    <img src={Gateway_Of_India} alt="Gateway of India" />
-    <img src={India_Gate} alt="India Gate" />
-    <img src={Taj_Mahal} alt="Taj Mahal" />
-    <img src={Varanasi} alt="Varanasi" />
-  </div>
+  <div class="grid md:grid-cols-4 gap-[2rem] w-full">
+    <img class="w-full place-self-center rounded-2xl" src={Gateway_Of_India} alt="Gateway of India" />
+    <img class="hidden md:block place-self-center rounded-2xl" src={India_Gate} alt="India Gate" />
+    <img class="hidden md:block place-self-center rounded-2xl" src={Taj_Mahal} alt="Taj Mahal" />
+    <img class="hidden md:block place-self-center rounded-2xl" src={Varanasi} alt="Varanasi" />
+  </div> 
+  
 </main>

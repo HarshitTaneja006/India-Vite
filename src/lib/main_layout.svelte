@@ -1,8 +1,3 @@
-<script>
-  import { Router } from "svelte-router-spa";
-  import { routes } from "../routes";
-</script>
-
 <div class="navbar bg-primary text-primary-content text-xl font-bold w-full">
   <div class="navbar-start">
     <div class="dropdown">
