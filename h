@@ -1,0 +1,1 @@
+https://github.com/jorgegorka/svelte-router#install

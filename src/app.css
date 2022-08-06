@@ -1,0 +1,13 @@
+/* Write your global styles here, in PostCSS syntax */
+
+@tailwind base;
+
+main {
+  margin : 10px;
+  max-width: 100vw;
+  height: 100vh;
+}
+
+@tailwind components;
+
+@tailwind utilities;
