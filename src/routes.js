@@ -1,4 +1,4 @@
-import home from "./routes/home.svelte";
+import home from "./routes/Home/home.svelte";
 import hello from "./routes/Places To Visit.svelte";
 
 const routes = [

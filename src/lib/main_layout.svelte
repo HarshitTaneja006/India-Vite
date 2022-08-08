@@ -86,7 +86,7 @@
     </ul>
   </div>
   <div class="navbar-end">
-    <a class="btn">Source Code</a>
+    <a href="https://github.com/HarshitTaneja006/India-Vite" target="_blank" class="btn">Source Code</a>
   </div>
 </div>
 
