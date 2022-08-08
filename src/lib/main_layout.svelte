@@ -36,7 +36,7 @@
             >
           </a>
           <ul class="p-2 bg-secondary">
-            <li><a>About India</a></li>
+            <li><a href="about">About India</a></li>
             <li><a>Culture</a></li>
             <li><a>Weather</a></li>
           </ul>
@@ -72,7 +72,7 @@
           >
         </a>
         <ul class="p-2 bg-secondary">
-          <li><a>About India</a></li>
+          <li><a href="about">About India</a></li>
           <li><a>Culture</a></li>
           <li><a>Weather</a></li>
         </ul>

@@ -1,7 +1,6 @@
 <script>
   import MainLayout from "../../lib/main_layout.svelte";
   import Title from "../../lib/Title.svelte"
-  import About from "./subs/about.svelte";
   import Gateway_Of_India from "../../assets/images/Gateway Of India.jpg";
   import Namaste from "../../assets/images/namaste.jpg"
   import Taj_Mahal from "../../assets/images/Taj Mahal.jpg";
@@ -22,6 +21,5 @@
     <img class="hidden md:block place-self-center rounded-2xl" src={Taj_Mahal} alt="Taj Mahal" />
     <img class="hidden md:block place-self-center rounded-2xl" src={Varanasi} alt="Varanasi" />
   </div> 
-  <div class="h-[4rem]"></div>
-  <About></About>
+  <div class="h-[3rem]"></div>
 </main>
