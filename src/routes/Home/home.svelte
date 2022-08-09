@@ -11,7 +11,7 @@
   <MainLayout />
 </nav>
 
-<main class="m-[1rem]">
+<main class="m-[1rem] overflow-hidden">
   <div class="h-[4rem]"></div>
   <Title></Title>
   <div class="h-[3rem]"></div>
@@ -21,5 +21,4 @@
     <img class="hidden md:block place-self-center rounded-2xl" src={Taj_Mahal} alt="Taj Mahal" />
     <img class="hidden md:block place-self-center rounded-2xl" src={Varanasi} alt="Varanasi" />
   </div> 
-  <div class="h-[3rem]"></div>
 </main>

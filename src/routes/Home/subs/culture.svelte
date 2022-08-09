@@ -66,7 +66,7 @@
         <img
           src={Namaste}
           alt="Kathak"
-          class="place-self-center rounded-2xl md:aspect-auto md:w-80 md:col-span-2 md:col-start-4"
+          class="place-self-center rounded-2xl md:aspect-auto my-[1rem] md:my-0 md:w-80 md:col-span-2 md:col-start-4"
         />
         <div class="col-span-3 col-start-1 row-start-1">
           <div class="font-semibold">But, what's the significance?</div>
@@ -91,7 +91,7 @@
         <img
           src={festival}
           alt="Kathak"
-          class="place-self-center rounded-2xl md:aspect-auto md:w-80 md:col-span-2 md:col-start-4"
+          class="place-self-center rounded-2xl md:aspect-auto my-[1rem] md:my-0 md:w-80 md:col-span-2 md:col-start-4"
         />
         <div class="col-span-3 col-start-1 row-start-1">
           India also sees a large number of festivals, mainly because of the
@@ -114,7 +114,7 @@
         <img
           src={Family}
           alt="Kathak"
-          class="place-self-center rounded-2xl md:aspect-auto md:w-80 md:col-span-2 md:col-start-4"
+          class="place-self-center rounded-2xl md:aspect-auto my-[1rem] md:my-0 md:w-80 md:col-span-2 md:col-start-4"
         />
         <div class="col-span-3 col-start-1 row-start-1">
           Also, in India, there exists the concept of a joint family, wherein
@@ -134,7 +134,7 @@
         <img
           src={temple}
           alt="Kathak"
-          class="place-self-center rounded-2xl md:aspect-auto md:w-80 md:col-span-2 md:col-start-4"
+          class="place-self-center rounded-2xl md:aspect-auto my-[1rem] md:my-0 md:w-80 md:col-span-2 md:col-start-4"
         />
         <div class="col-span-3 col-start-1 row-start-1">
           Most temples are located along magnetic wave lines of the Earth, which
