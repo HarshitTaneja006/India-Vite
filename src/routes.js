@@ -1,6 +1,7 @@
 import home from "./routes/Home/home.svelte";
 import hello from "./routes/Places To Visit.svelte";
 import aboutSvelte from "./routes/Home/subs/about.svelte";
+import Culture from "./routes/Home/subs/culture.svelte";
 
 const routes = [
     {
@@ -11,6 +12,11 @@ const routes = [
     {
         name : 'about',
         component : aboutSvelte,
+    },
+
+    {
+        name : 'culture',
+        component : Culture,
     },
 
     {
