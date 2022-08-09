@@ -38,7 +38,6 @@
           <ul class="p-2 bg-secondary">
             <li><a href="about">About India</a></li>
             <li><a>Culture</a></li>
-            <li><a>Weather</a></li>
           </ul>
         </li>
         <li><a href="Places_To_Visit">Places To Visit</a></li>
@@ -74,7 +73,6 @@
         <ul class="p-2 bg-secondary">
           <li><a href="about">About India</a></li>
           <li><a>Culture</a></li>
-          <li><a>Weather</a></li>
         </ul>
       </li>
       <li><a href="Places_To_Visit">Places To Visit</a></li>
